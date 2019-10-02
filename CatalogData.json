@@ -8,27 +8,27 @@
       "id_product": 354,
       "product_name": "Клавиатура",
       "price": 1500
-    }
+    },
     {
         "id_product": 832,
         "product_name": "Монитор",
         "price": 7000
-      }
+      },
       {
         "id_product": 456,
         "product_name": "Мышка",
         "price": 1000
-      }
+      },
       {
         "id_product": 520,
         "product_name": "Системный блок",
         "price": 30000
-      }
+      },
       {
         "id_product": 620,
         "product_name": "Web камера",
         "price": 2000
-      }
+      },
       {
         "id_product": 720,
         "product_name": "Оперативная память",
